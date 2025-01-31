@@ -1,14 +1,14 @@
-Assignment 1
+**Assignment 1**
 
 Author: Jaiden Bose
 
 Student ID: c0933850
 
-Description
+**Description**
 
 This Java project implements two classes: Dog and Person, along with corresponding unit tests using JUnit 5. The project demonstrates object-oriented programming principles such as encapsulation, constructors, optional attributes, and exception handling.
 
-Features
+**Features**
 
 Dog class with name and age attributes.
 
@@ -20,25 +20,7 @@ Exception handling when attempting to rename a dog that does not exist.
 
 JUnit 5 test cases for verifying class functionality.
 
-Project Structure
-
-project-root/
-│── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── Dog.java
-│   │   │   ├── Person.java
-
-
-
-│   ├── test/
-│   │   ├── java/
-│   │   │   ├── DogTest.java
-│   │   │   ├── PersonTest.java
-│── pom.xml (if using Maven)
-│── README.md
-
-Requirements
+**Requirements**
 
 Java 17 or later
 
@@ -48,7 +30,7 @@ JUnit 5 (for unit testing)
 
 Maven (if using dependency management)
 
-Installation & Setup
+**Installation & Setup**
 
 1. Clone the Repository
 
